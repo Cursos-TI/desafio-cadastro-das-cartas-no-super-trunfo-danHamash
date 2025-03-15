@@ -179,22 +179,22 @@ case 1:
            printf("Valores dos atributos: %d - %d \n", populacaoUm, populacaoDois);
 break;
 case 2:
-           printf("Cidades: %s - Nome da cidade: %s \n", nomeDaCidadeUm, nomeDaCidadeDois);
+           printf("Cidades: %s - %s \n", nomeDaCidadeUm, nomeDaCidadeDois);
            printf("Area Km² - Area Km²  \n");
            printf("Valores dos atributos: %.2f - %.2f\n", areaEmKmUm, areaEmKmDois);
 break;
 case 3:
-           printf("Cidades: %s - Nome da cidade: %s \n", nomeDaCidadeUm, nomeDaCidadeDois);
+           printf("Cidades: %s - %s \n", nomeDaCidadeUm, nomeDaCidadeDois);
            printf("PIB - PIB \n");
            printf("Valores dos atributos: %.2f -  %.2f\n", pibUm, pibDois);
 break;
 case 4:
-           printf("Cidades: %s - Nome da cidade: %s \n", nomeDaCidadeUm, nomeDaCidadeDois);
+           printf("Cidades: %s - %s \n", nomeDaCidadeUm, nomeDaCidadeDois);
            printf("Pontos Turicticos - Pontos Turisticos\n");
            printf("Valores dos atributos: %d - %d\n", numeroDePontosTuristicosUm, numeroDePontosTuristicosDois);
 break;
 case 5:
-           printf("Cidades: %s - Nome da cidade: %s \n", nomeDaCidadeUm, nomeDaCidadeDois);
+           printf("Cidades: %s - %s \n", nomeDaCidadeUm, nomeDaCidadeDois);
            printf("Desnsidade populacional - Densidade populacional\n");
            printf("Valores dos atributos: %d - %d\n", densidadePopulacionalUm, densidadePopulacionalDois);
 break;
