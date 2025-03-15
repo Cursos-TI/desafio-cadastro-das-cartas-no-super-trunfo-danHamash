@@ -13,7 +13,7 @@ int numeroDePontosTuristicosUm; // pontos turísticos carta 1
 unsigned long int populacaoUm;  // População carta 1
 char codigoDaCartaUm[5]; // código da carta 1
 char nomeDaCidadeUm[15]; // nome da cidade carta 1
-char estadoUm[2];  // sigla do estado carta 1
+char estadoUm[3];  // sigla do estado carta 1
 float areaEmKmUm; // área em km² carta 1
 float pibUm;  // PIB da carta 1
 
@@ -23,7 +23,7 @@ int numeroDePontosTuristicosDois; // pontos turísticos carta 2
 unsigned long int populacaoDois;  // População carta 2
 char codigoDaCartaDois[5]; // código da carta 2
 char nomeDaCidadeDois[20]; // nome da cidade carta 2
-char estadoDois[2];  // sigla do estado carta 2
+char estadoDois[3];  // sigla do estado carta 2
 float areaEmKmDois ; // área em km² carta 2
 float pibDois ;  // PIB da carta 2
 
