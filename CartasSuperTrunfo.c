@@ -144,6 +144,20 @@ printf("PIB per Capita: Carta 1 venceu (%d)\n",
 printf("Super Poder: Carta 1 venceu (%d)\n",
        superPoder1 > superPoder2
 );
+
+//comparação das cartas
+printf("\nComparação de cartas (Atributo: População): \n");
+
+printf("\ncarta 1 - %s (%s): %d \n" ,nomeDaCidadeUm, estadoUm, populacaoUm);
+printf("carta 2 - %s (%s): %d \n" ,nomeDaCidadeDois, estadoDois, populacaoDois);
+
+
+// Exibindo o vencedor 
+if (populacaoUm > populacaoDois){
+printf("Resultado: Carta 1 (%s) Venceu!", nomeDaCidadeUm); // exibe detalhes da carta 1, True
+}else {
+printf("Resultado: Carta 2 (%s) Venceu!", nomeDaCidadeDois); // exibe detalhes da carta 2, False
+}
 return 0;
 
 }
